@@ -14,6 +14,7 @@ FUNCTION Z_AQ_CHANGE_LOG.
 *"     REFERENCE(T_TEXTPOOL) TYPE  TEXTPOOL_TABLE OPTIONAL
 *"----------------------------------------------------------------------
   TYPE-POOLS: abap.
+*/TEST LINE COMMENT
 *Constants
   CONSTANTS: c_task_wb type TRFUNCTION value 'S'.
   CONSTANTS: c_task_cust type TRFUNCTION value 'Q'.
